@@ -103,7 +103,7 @@
 58-->/home/venturus/Unity3dProjects/Tutorial_Unity2020_Cardboard_XR_Plugin2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:5-101
 59            android:name="unity.build-id"
 59-->/home/venturus/Unity3dProjects/Tutorial_Unity2020_Cardboard_XR_Plugin2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:16-45
-60            android:value="395f8ad9-6a0d-4d0c-8e0f-fa40209d3795" />
+60            android:value="2c488641-b00f-4454-80d1-c8b2595b40e4" />
 60-->/home/venturus/Unity3dProjects/Tutorial_Unity2020_Cardboard_XR_Plugin2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:46-98
 61    </application>
 62

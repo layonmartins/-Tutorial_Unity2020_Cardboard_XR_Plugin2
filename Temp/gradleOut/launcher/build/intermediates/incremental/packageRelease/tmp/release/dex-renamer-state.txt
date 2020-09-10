@@ -1,4 +1,4 @@
-#Wed Sep 09 11:03:51 BRT 2020
+#Wed Sep 09 22:26:08 BRT 2020
 base.0=/home/venturus/Unity3dProjects/Tutorial_Unity2020_Cardboard_XR_Plugin2/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
